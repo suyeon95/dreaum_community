@@ -41,7 +41,7 @@ body{font-size: 14px; line-height: 24px; color: #222; font-family: 'GowunDodum-R
 .a_box{ width:100%; padding:25px 120px; background-color: #ebd4c2;  box-sizing:border-box;  height:74px; display:none; border-top: #fff 2px dotted;}
 
 /* mab */
-#mab{width: 1320px; height: 1180px; margin: 0 auto; text-align: center; font-family: 'GowunDodum-Regular';}
+#mab{width: 1320px; height: 1320px; margin: 0 auto; text-align: center; font-family: 'GowunDodum-Regular';}
 .blod{font-weight: bold;}
 .mab{margin-top: 60px;}
 .box1, .box2{float: left; text-align: left;}
